@@ -8,7 +8,7 @@
     </department>
     <!-- Обувь -->
     <department name_eng = "Shoes" name_rus = "Обувь">
-        <product id = "1" name_eng = "Sneakers" name_rus = "Кеды" />
-        <product id = "2" name_eng = "Womens shoes" name_rus = "Туфли" />
+        <product id = "101" name_eng = "Sneakers" name_rus = "Кеды" />
+        <product id = "102" name_eng = "Womens shoes" name_rus = "Туфли" />
     </department>
 </store>
