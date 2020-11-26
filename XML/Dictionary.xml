@@ -13,42 +13,42 @@
     </department>
         <!-- Шапки -->
     <department name_eng = "Hats" name_rus = "Шапки">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Однотонные шапки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Шапки с вышивкой" />
+        <product id = "103" name_eng = "Sneakers" name_rus = "Однотонные шапки" />
+        <product id = "104" name_eng = "Womens_shoes" name_rus = "Шапки с вышивкой" />
     </department>
         <!-- Перчатки -->
     <department name_eng = "Gloves" name_rus = "Перчатки">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Трикотажные перчатки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Перчатки с замком-молнией" />
+        <product id = "105" name_eng = "Sneakers" name_rus = "Трикотажные перчатки" />
+        <product id = "106" name_eng = "Womens_shoes" name_rus = "Перчатки с замком-молнией" />
     </department>
         <!-- Аксессуары -->
     <department name_eng = "Accessories" name_rus = "Аксессуары">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Браслеты" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Цепочки" />
+        <product id = "107" name_eng = "Sneakers" name_rus = "Браслеты" />
+        <product id = "108" name_eng = "Womens_shoes" name_rus = "Цепочки" />
     </department>
         <!-- Сумки -->
     <department name_eng = "Handbags" name_rus = "Сумки">
-        <product id = "1" name_eng = "Shirt" name_rus = "Текстильные сумки" />
-        <product id = "2" name_eng = "Pants" name_rus = "Сумки на плечо" />
+        <product id = "109" name_eng = "Shirt" name_rus = "Текстильные сумки" />
+        <product id = "110" name_eng = "Pants" name_rus = "Сумки на плечо" />
     </department>
     <!-- Спортивная одежда -->
     <department name_eng = "Sportswear" name_rus = "Спортивная одежда">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Спортивные брюки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Спортивные куртки" />
+        <product id = "111" name_eng = "Sneakers" name_rus = "Спортивные брюки" />
+        <product id = "112" name_eng = "Womens_shoes" name_rus = "Спортивные куртки" />
     </department>
         <!-- Носки -->
     <department name_eng = "Socks" name_rus = "Носки">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Вязаные носки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Жаккардовые носки" />
+        <product id = "113" name_eng = "Sneakers" name_rus = "Вязаные носки" />
+        <product id = "114" name_eng = "Womens_shoes" name_rus = "Жаккардовые носки" />
     </department>
         <!-- Костюмы -->
     <department name_eng = "Costumes" name_rus = "Костюмы">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Пиджаки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Брюки" />
+        <product id = "115" name_eng = "Sneakers" name_rus = "Пиджаки" />
+        <product id = "116" name_eng = "Womens_shoes" name_rus = "Брюки" />
     </department>
         <!-- Рубашки -->
     <department name_eng = "Shirts" name_rus = "Рубашки">
-        <product id = "101" name_eng = "Sneakers" name_rus = "Фланелевые рубашки" />
-        <product id = "102" name_eng = "Womens_shoes" name_rus = "Куртки-рубашки" />
+        <product id = "117" name_eng = "Sneakers" name_rus = "Фланелевые рубашки" />
+        <product id = "118" name_eng = "Womens_shoes" name_rus = "Куртки-рубашки" />
     </department>
 </store>
